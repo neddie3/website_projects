@@ -1,2 +1,2 @@
 # website_projects
-All personal 'practice' web projects.
+Rubbish prototype products I made
